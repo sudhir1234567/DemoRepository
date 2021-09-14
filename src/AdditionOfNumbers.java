@@ -5,6 +5,6 @@ public class AdditionOfNumbers {
         sum = num1 + num2;
         int mult = num1*num2;
         System.out.println("Sum of these numbes: "+sum);
-        System.out.println("Sum of these numbes: "+mult);
+        System.out.println("Sum of 88these numbes: "+mult);
     }
 }
